@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RakibHassan1997
+- 👋 Hi, I’m Rakib Hassan
 - 👀 I’m interested in SQA
 - 🌱 I’m currently learning Automation QA
 - 💞️ I’m looking to collaborate on ...
